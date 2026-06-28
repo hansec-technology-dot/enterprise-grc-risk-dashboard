@@ -52,7 +52,7 @@ With a background combining behavioral analysis (Psychology) and deep informatio
 
 I partner with forward-thinking enterprises, Managed Service Providers (MSPs), and executives looking to automate their technical pipelines and solidify their compliance posture.
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-*   🌐 **Portfolio:** [hansec-technology-dot.github.io/Ouma-Haningtone/](https://hansec-technology-dot.github.io/Ouma-Haningtone/)
-*   📬 **Email:** [your.email@example.com]
+*   💼 **LinkedIn:** https://www.linkedin.com/in/ouma-haningtone-25b7172a9/
+*   🌐 **Portfolio:** [[hansec-technology-dot.github.io/Ouma-Haningtone/](https://hansec-technology-dot.github.io/Ouma-Haningtone/)](https://hansec-technology-dot.github.io/Ouma-Haningtone/)
+*   📬 **Email:** stiriohaningtone630@gmail.com
 *   💬 **Ask me about:** Python automation scripts, bridging tech data to ISO 27001/SOC 2 frameworks, and optimized B2B outbound workflows.
